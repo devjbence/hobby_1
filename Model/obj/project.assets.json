@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\hobby_1\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Model\\Model.csproj",
+      "projectPath": "C:\\hobby_1\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Ben & Szan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Model\\obj\\",
+      "outputPath": "C:\\hobby_1\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

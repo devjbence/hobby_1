@@ -6,3 +6,14 @@ C:\Users\Ben & Szan\source\repos\Hobby_1\Test\obj\Debug\netcoreapp2.1\Test.cspro
 C:\Users\Ben & Szan\source\repos\Hobby_1\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
 C:\Users\Ben & Szan\source\repos\Hobby_1\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
 C:\Users\Ben & Szan\source\repos\Hobby_1\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\hobby_1\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\hobby_1\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\hobby_1\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\hobby_1\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\hobby_1\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\hobby_1\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\hobby_1\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\hobby_1\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\hobby_1\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\hobby_1\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\hobby_1\Test\obj\Debug\netcoreapp2.1\Test.pdb

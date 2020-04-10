@@ -4,3 +4,12 @@ C:\Users\Ben & Szan\source\repos\Hobby_1\Logic\obj\Debug\netstandard2.0\Logic.cs
 C:\Users\Ben & Szan\source\repos\Hobby_1\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
 C:\Users\Ben & Szan\source\repos\Hobby_1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
 C:\Users\Ben & Szan\source\repos\Hobby_1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\hobby_1\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\hobby_1\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\hobby_1\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\hobby_1\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+C:\hobby_1\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\hobby_1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\hobby_1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\hobby_1\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\hobby_1\Logic\obj\Debug\netstandard2.0\Logic.pdb

@@ -4,3 +4,12 @@ C:\Users\Ben & Szan\source\repos\Hobby_1\View\obj\Debug\netstandard2.0\View.cspr
 C:\Users\Ben & Szan\source\repos\Hobby_1\View\obj\Debug\netstandard2.0\View.csproj.CoreCompileInputs.cache
 C:\Users\Ben & Szan\source\repos\Hobby_1\View\obj\Debug\netstandard2.0\View.AssemblyInfoInputs.cache
 C:\Users\Ben & Szan\source\repos\Hobby_1\View\obj\Debug\netstandard2.0\View.AssemblyInfo.cs
+C:\hobby_1\View\bin\Debug\netstandard2.0\View.deps.json
+C:\hobby_1\View\bin\Debug\netstandard2.0\View.dll
+C:\hobby_1\View\bin\Debug\netstandard2.0\View.pdb
+C:\hobby_1\View\obj\Debug\netstandard2.0\View.csprojAssemblyReference.cache
+C:\hobby_1\View\obj\Debug\netstandard2.0\View.csproj.CoreCompileInputs.cache
+C:\hobby_1\View\obj\Debug\netstandard2.0\View.AssemblyInfoInputs.cache
+C:\hobby_1\View\obj\Debug\netstandard2.0\View.AssemblyInfo.cs
+C:\hobby_1\View\obj\Debug\netstandard2.0\View.dll
+C:\hobby_1\View\obj\Debug\netstandard2.0\View.pdb

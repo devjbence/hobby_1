@@ -780,11 +780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Logic\\Logic.csproj",
+      "projectUniqueName": "C:\\hobby_1\\Logic\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Logic\\Logic.csproj",
+      "projectPath": "C:\\hobby_1\\Logic\\Logic.csproj",
       "packagesPath": "C:\\Users\\Ben & Szan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Logic\\obj\\",
+      "outputPath": "C:\\hobby_1\\Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

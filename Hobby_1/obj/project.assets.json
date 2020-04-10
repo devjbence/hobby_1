@@ -2648,11 +2648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Hobby_1\\Hobby_1.csproj",
+      "projectUniqueName": "C:\\hobby_1\\Hobby_1\\Hobby_1.csproj",
       "projectName": "Hobby_1",
-      "projectPath": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Hobby_1\\Hobby_1.csproj",
+      "projectPath": "C:\\hobby_1\\Hobby_1\\Hobby_1.csproj",
       "packagesPath": "C:\\Users\\Ben & Szan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Hobby_1\\obj\\",
+      "outputPath": "C:\\hobby_1\\Hobby_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2671,11 +2671,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\Logic\\Logic.csproj"
+            "C:\\hobby_1\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\hobby_1\\Logic\\Logic.csproj"
             },
-            "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\View\\View.csproj": {
-              "projectPath": "C:\\Users\\Ben & Szan\\source\\repos\\Hobby_1\\View\\View.csproj"
+            "C:\\hobby_1\\View\\View.csproj": {
+              "projectPath": "C:\\hobby_1\\View\\View.csproj"
             }
           }
         }
