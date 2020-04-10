@@ -1,13 +1,16 @@
-﻿using Logic.Services;
+﻿using System;
+using Logic.Services;
 using Microsoft.Extensions.DependencyInjection;
 using StructureMap;
 using View;
+using View.Scene.Interfaces;
+using View.Window.Interfaces;
 
 namespace Hobby_1
 {
     public class Startup
     {
-        public void RegisterServices()
+        public static void RegisterServices()
         {
             // add StructureMap
             var container = new Container();
@@ -24,6 +27,12 @@ namespace Hobby_1
                 config.Populate(LogicServiceCollection.GetServiceCollection());
                 config.Populate(ViewServiceCollection.GetServiceCollection());
             });
+
+            var serviceProvider = container.GetInstance<IServiceProvider>();
+
+            var window = serviceProvider.GetRequiredService<IWindow>();
+
+            window.Test();
 
             //configure file logging
             //serviceProvider

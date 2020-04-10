@@ -32,17 +32,17 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-/Hobby_1/bin/
-/Logic/bin/
-/Model/bin/
-/Test/bin/
-/View/bin/
+Hobby_1/bin/
+Logic/bin/
+Model/bin/
+Test/bin/
+View/bin/
 
-/Hobby_1/obj/
-/Logic/obj/
-/Model/obj/
-/Test/obj/
-/View/obj/
+Hobby_1/obj/
+Logic/obj/
+Model/obj/
+Test/obj/
+View/obj/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/

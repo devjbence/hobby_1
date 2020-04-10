@@ -6,5 +6,6 @@ namespace View.Scene.Interfaces
 {
     public interface IScene
     {
+        void Test();
     }
 }
