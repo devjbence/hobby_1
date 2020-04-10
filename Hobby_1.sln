@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "Logic\Logic.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{35943AF7-ABAC-4142-9563-D89C805A87AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapExporter", "MapExporter\MapExporter.csproj", "{69605F46-418C-4CB4-8AE6-AB6E4110D6D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{35943AF7-ABAC-4142-9563-D89C805A87AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35943AF7-ABAC-4142-9563-D89C805A87AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35943AF7-ABAC-4142-9563-D89C805A87AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69605F46-418C-4CB4-8AE6-AB6E4110D6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69605F46-418C-4CB4-8AE6-AB6E4110D6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69605F46-418C-4CB4-8AE6-AB6E4110D6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69605F46-418C-4CB4-8AE6-AB6E4110D6D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,6 @@
 ﻿using System;
 using Logic.Services;
+using MapExporter.Services;
 using Microsoft.Extensions.DependencyInjection;
 using StructureMap;
 using View;
@@ -26,6 +27,7 @@ namespace Hobby_1
                 config.Populate(WebServiceCollection.GetServiceCollection());
                 config.Populate(LogicServiceCollection.GetServiceCollection());
                 config.Populate(ViewServiceCollection.GetServiceCollection());
+                config.Populate(MapExporterServiceCollection.GetServiceCollection());
             });
 
             var serviceProvider = container.GetInstance<IServiceProvider>();

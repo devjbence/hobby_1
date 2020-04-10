@@ -326,6 +326,15 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "StructureMap/4.5.0": {
         "type": "package",
         "dependencies": {
@@ -620,6 +629,20 @@
         },
         "runtime": {
           "bin/placeholder/Logic.dll": {}
+        }
+      },
+      "MapExporter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "3.1.3",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/MapExporter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MapExporter.dll": {}
         }
       },
       "View/1.0.0": {
@@ -1274,6 +1297,37 @@
         "lib/netstandard1.0/_._",
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "StructureMap/4.5.0": {
@@ -2625,6 +2679,11 @@
       "path": "../Logic/Logic.csproj",
       "msbuildProject": "../Logic/Logic.csproj"
     },
+    "MapExporter/1.0.0": {
+      "type": "project",
+      "path": "../MapExporter/MapExporter.csproj",
+      "msbuildProject": "../MapExporter/MapExporter.csproj"
+    },
     "View/1.0.0": {
       "type": "project",
       "path": "../View/View.csproj",
@@ -2634,6 +2693,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Logic >= 1.0.0",
+      "MapExporter >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 3.1.3",
       "Microsoft.Extensions.Logging >= 3.1.3",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -2673,6 +2733,9 @@
           "projectReferences": {
             "C:\\hobby_1\\Logic\\Logic.csproj": {
               "projectPath": "C:\\hobby_1\\Logic\\Logic.csproj"
+            },
+            "C:\\hobby_1\\MapExporter\\MapExporter.csproj": {
+              "projectPath": "C:\\hobby_1\\MapExporter\\MapExporter.csproj"
             },
             "C:\\hobby_1\\View\\View.csproj": {
               "projectPath": "C:\\hobby_1\\View\\View.csproj"
