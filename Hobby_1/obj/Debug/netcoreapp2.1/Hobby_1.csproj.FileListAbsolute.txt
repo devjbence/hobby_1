@@ -1,0 +1,13 @@
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\bin\Debug\netcoreapp2.1\Hobby_1.deps.json
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\bin\Debug\netcoreapp2.1\Hobby_1.runtimeconfig.json
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\bin\Debug\netcoreapp2.1\Hobby_1.runtimeconfig.dev.json
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\bin\Debug\netcoreapp2.1\Hobby_1.dll
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\bin\Debug\netcoreapp2.1\Hobby_1.pdb
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\obj\Debug\netcoreapp2.1\Hobby_1.csprojAssemblyReference.cache
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\obj\Debug\netcoreapp2.1\Hobby_1.csproj.CoreCompileInputs.cache
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\obj\Debug\netcoreapp2.1\Hobby_1.AssemblyInfoInputs.cache
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\obj\Debug\netcoreapp2.1\Hobby_1.AssemblyInfo.cs
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\obj\Debug\netcoreapp2.1\Hobby_1.dll
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\obj\Debug\netcoreapp2.1\Hobby_1.pdb
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\bin\Debug\netcoreapp2.1\Logic.dll
+C:\Users\Ben & Szan\source\repos\Hobby_1\Hobby_1\bin\Debug\netcoreapp2.1\View.dll

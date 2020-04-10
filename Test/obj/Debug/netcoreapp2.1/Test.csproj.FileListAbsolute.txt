@@ -1,0 +1,8 @@
+C:\Users\Ben & Szan\source\repos\Hobby_1\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\Ben & Szan\source\repos\Hobby_1\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\Ben & Szan\source\repos\Hobby_1\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\Ben & Szan\source\repos\Hobby_1\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\Ben & Szan\source\repos\Hobby_1\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\Ben & Szan\source\repos\Hobby_1\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Ben & Szan\source\repos\Hobby_1\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\Ben & Szan\source\repos\Hobby_1\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
