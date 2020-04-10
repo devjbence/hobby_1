@@ -1,15 +1,18 @@
 ﻿using System;
 using Logic.Services;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using Serilog;
 using StructureMap;
 using View;
-using View.Scene.Interfaces;
 using View.Window.Interfaces;
 
 namespace Hobby_1
 {
     public class Startup
     {
+        public static IServiceProvider serviceProvider;
+
         public static void RegisterServices()
         {
             // add StructureMap
@@ -28,19 +31,16 @@ namespace Hobby_1
                 config.Populate(ViewServiceCollection.GetServiceCollection());
             });
 
-            var serviceProvider = container.GetInstance<IServiceProvider>();
+            Log.Logger = new LoggerConfiguration()
+                        .WriteTo.File("consoleapp.log")
+                        .CreateLogger();
 
-            var window = serviceProvider.GetRequiredService<IWindow>();
+            serviceProvider = container.GetInstance<IServiceProvider>();
 
-            window.Test();
+            var logger = serviceProvider.GetRequiredService<ILoggerFactory>()
+                .CreateLogger<Program>();
 
-            //configure file logging
-            //serviceProvider
-            //    .GetService<ILoggerFactory>()
-            //    .add(LogLevel.Debug);
-
-            //var logger = serviceProvider.GetService<ILoggerFactory>()
-            //    .CreateLogger<Program>();
+            container.GetInstance<IWindow>().Test();
         }
     }
 }

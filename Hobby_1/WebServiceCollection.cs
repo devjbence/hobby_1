@@ -9,7 +9,7 @@ namespace Hobby_1
     {
         public static ServiceCollection GetServiceCollection()
         {
-            var collection = new ServiceCollection();
+            var collection = new ServiceCollection();          
 
             return collection;
         }
